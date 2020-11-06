@@ -1,6 +1,7 @@
 # IPL_DATASET_ANALYSIS
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad5cc96e994042d998c7c337b3c859dc)](https://app.codacy.com/gh/navydhara79/IPL_DATASET_ANALYSIS?utm_source=github.com&utm_medium=referral&utm_content=navydhara79/IPL_DATASET_ANALYSIS&utm_campaign=Badge_Grade)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ad5cc96e994042d998c7c337b3c859dc)](https://app.codacy.com/gh/navydhara79/IPL_DATASET_ANALYSIS?utm_source=github.com&utm_medium=referral&utm_content=navydhara79/IPL_DATASET_ANALYSIS&utm_campaign=Badge_Grade)
 
 Please Visit "Analysis Of Dataset For More Info"
 
